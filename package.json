@@ -8,10 +8,10 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "start:dev":"ng serve --c=dev",
-    "build:dev":"ng build --c=dev",
-    "start:prod":"ng serve --c=prod",
-    "build:prod":"ng build --c=prod"
+    "start:dev": "ng serve --c=dev",
+    "build:dev": "ng build --c=dev",
+    "start:prod": "ng serve --c=prod",
+    "build:prod": "ng build --c=prod"
   },
   "private": true,
   "dependencies": {
